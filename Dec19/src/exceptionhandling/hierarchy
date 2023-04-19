@@ -1,0 +1,21 @@
+Throwable-  // root class of exception hierarchy
+          - Exception (Checked Exception)
+             -- SQLException
+             -- ClassNotFoundException
+             -- IOException (InputOutput Exception)
+                    -- FileNotFound Exception
+             -- RuntimeException (Unchecked Exception)-
+                    -- NullPointerException
+                    -- NumberFormatException
+                    -- ArithmeticException
+                    -- ClassCastException
+                    -- IndexOutOfBoundException
+                            -- ArrayIndexOutOfBoundException
+                            -- StringIndexOutOfBoundException
+
+
+
+          - Error
+              -- StackOverflowError   - when we create continue object
+              -- UnknownError         -the error which is not registered in jdk
+              -- OutMemoryError       -while memory is full and we are running program

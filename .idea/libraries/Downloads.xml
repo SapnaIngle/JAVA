@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Downloads">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector J 8.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector J 8.0" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads" recursive="false" />
+  </library>
+</component>
